@@ -156,7 +156,7 @@ project (1) : Root Setup Project
                     i → Minutes
                     s → Seconds
                     
-  ^ Examples:
+  Examples:
         
             echo date("Y-m-d H:i:s");
             Output: 2025-11-05 12:30:45 (example)
