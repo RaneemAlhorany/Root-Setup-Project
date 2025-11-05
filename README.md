@@ -132,9 +132,7 @@ project (1) : Root Setup Project
 4) method
 
  Function: date()
-     
-    <?php
-    
+         
   Purpose:
   
              To get and format the current date and time in PHP
@@ -179,4 +177,3 @@ example :
     date_default_timezone_set("Asia/Amman"); // Set timezone
     echo "Current Jordan time: " . date("Y-m-d H:i:s");
   
-    ?>
